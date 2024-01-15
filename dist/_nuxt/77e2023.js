@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{1039:function(n,t,e){"use strict";e.r(t);var l={name:"InvitesPage",layout:"layoutPage"},o=e(8),component=Object(o.a)(l,(function(){return(0,this._self._c)("div",[this._v("\n  aaaaa\n")])}),[],!1,null,null,null);t.default=component.exports}}]);

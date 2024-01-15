@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{1029:function(n,e,t){"use strict";t.r(e);var r={name:"FriendsBirthdays",layout:"layoutFriends"},l=t(8),component=Object(l.a)(r,(function(){var n=this;return(0,n._self._c)("div",[n._v("\n  "+n._s(n.$t("home.friend"))+" \n")])}),[],!1,null,null,null);e.default=component.exports}}]);
